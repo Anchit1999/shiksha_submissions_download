@@ -51,3 +51,8 @@ headers1 = {
     'Accept-Language': 'en-US,en;q=0.9,hi;q=0.8,pa;q=0.7',
 }
 ```
+
+### Running the code
+```
+python download.py
+```
